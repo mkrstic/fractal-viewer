@@ -1,0 +1,8 @@
+C:\Users\mladen\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mladen\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.AboutForm.resources
+C:\Users\mladen\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.FractalsForm.resources
+C:\Users\mladen\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.OptionsForm.resources
+C:\Users\mladen\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.Properties.Resources.resources
+C:\Users\mladen\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.csproj.GenerateResource.Cache
+C:\Users\mladen\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.exe
+C:\Users\mladen\Documents\Visual Studio 2010\Projects\FractalViewer\FractalViewer\obj\x86\Debug\FractalViewer.pdb
